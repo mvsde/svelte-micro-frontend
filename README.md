@@ -36,3 +36,17 @@ Lint JS and CSS code:
 ```sh
 npm run lint
 ```
+
+## Embed the micro frontend
+
+Reference the output JS file inside the `<head>` before any `<link rel="stylesheet">`:
+
+```html
+<script defer src="dist/svelte-micro-frontend.iife.js"></script>
+```
+
+Add the following inside the `<body>` where you want the micro frontend to appear:
+
+```html
+<div id="svelte-micro-frontend"></div>
+```
