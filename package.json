@@ -9,7 +9,7 @@
     "lint:css": "stylelint \"**/*.{scss,svelte}\""
   },
   "dependencies": {
-    "svelte": "^3.38.2"
+    "svelte": "^3.49.0"
   },
   "devDependencies": {
     "@pangolinjs/eslint-config": "^5.2.0",
