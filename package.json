@@ -13,7 +13,7 @@
   },
   "devDependencies": {
     "@pangolinjs/eslint-config": "^5.2.0",
-    "@pangolinjs/stylelint-config": "^2.0.5",
+    "@pangolinjs/stylelint-config": "^4.0.0",
     "@sveltejs/vite-plugin-svelte": "^1.0.0-next.11",
     "eslint": "^7.28.0",
     "eslint-config-standard": "^16.0.3",
@@ -21,9 +21,9 @@
     "eslint-plugin-node": "^11.1.0",
     "eslint-plugin-promise": "^5.1.0",
     "eslint-plugin-svelte3": "^3.2.0",
-    "stylelint": "^13.13.1",
-    "stylelint-order": "^4.1.0",
-    "stylelint-scss": "^3.19.0",
+    "stylelint": "^15.10.3",
+    "stylelint-order": "^6.0.3",
+    "stylelint-scss": "^5.2.1",
     "vite": "^2.9.16"
   }
 }
