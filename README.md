@@ -4,12 +4,12 @@ Basic [Svelte](https://svelte.dev) plus [Vite](https://vitejs.dev) configuration
 
 ## Requirements
 
-* [Node.js](https://nodejs.org)
-* [npm CLI](https://docs.npmjs.com/cli/) (bundled with Node.js)
+- [Node.js](https://nodejs.org)
+- [npm CLI](https://docs.npmjs.com/cli/) (bundled with Node.js)
 
 ## Installation
 
-Download the source files (don’t clone since you want to create a “new” project).
+[Download the source files](https://github.com/mvsde/svelte-micro-frontend/archive/refs/heads/main.zip) (don’t clone since you want to create a “new” project).
 
 Install dependencies with:
 
@@ -29,12 +29,6 @@ Build production files:
 
 ```sh
 npm run build
-```
-
-Lint JS and CSS code:
-
-```sh
-npm run lint
 ```
 
 ## Embed the micro frontend

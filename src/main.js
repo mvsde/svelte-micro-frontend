@@ -1,8 +1,8 @@
-import App from './App.svelte'
+import App from "./App.svelte";
 
-const target = document.querySelector('#svelte-micro-frontend')
+const target = document.querySelector("#svelte-micro-frontend");
 
 if (target) {
-  // eslint-disable-next-line no-new
-  new App({ target })
+	// eslint-disable-next-line no-new
+	new App({ target });
 }
